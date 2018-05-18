@@ -1,0 +1,46 @@
+/* makes the left-right borders of #name touch the top */
+body{
+    margin-top:0;
+}
+/* Top bar w/ name and links to other pages */
+#firstdiv{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    border-bottom-style:solid;
+    border-bottom-width:2px;
+
+}
+
+#name{
+    
+    margin-top:0;
+    font-size:3em;
+    font-weight:bold;
+    margin-bottom:20px;
+    border-left-style:solid;
+    border-right-style:solid;
+    margin-bottom:0;
+    padding-right:1em;
+    padding-bottom:4px;
+    padding-left:1em;
+    background-color:#7AA252;
+    color:white;
+    
+    
+
+}
+#aboutLeftPush{
+    margin-left:40vw;
+    margin-bottom:0;
+
+}
+.pageRightSpread{
+    margin-right:1em;
+    margin-bottom:0;
+
+}
+#contactLink{
+    margin-bottom:0;
+
+}
