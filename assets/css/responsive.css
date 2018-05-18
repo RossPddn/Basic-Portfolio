@@ -1,0 +1,9 @@
+@media screen and (max-width: 400px) {
+ #aboutLeftPush{
+     margin-left:0;
+ }
+ .pageRightSpread{
+    margin-right:2px;
+
+ }
+  }
